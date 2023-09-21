@@ -189,7 +189,7 @@ app.post("/users", async (req, res) => {
     });
 
     // Get Users reviews
-    app.get("/users/review", async (req, res) => {
+    app.get("/review", async (req, res) => {
       const result = await usersReviewCollection.find({}).toArray();
       res.send(result);
     });
