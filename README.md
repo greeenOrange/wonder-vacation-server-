@@ -2,7 +2,7 @@
 
 ## Book Domestic and International Holidays
 :black_medium_square: [Live site](https://first-firebase-authentic-df7ba.web.app)
-:black_medium_small_square: [server site](https://github.com/greeenOrange/wonder-vacation-server-)
+:black_medium_small_square: [server site](https://github.com/greeenOrange/wonder-vacation-client)
 
 ## User Admin Access
 - Email admin@ns.co
